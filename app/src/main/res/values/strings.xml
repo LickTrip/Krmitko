@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">AutoFeeder</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="wlcme">WLCME</string>
+    <string name="lick_trip_production">LICK TRIP PRODUCTION</string>
+    <string name="i_m_your_automatic_feeder_controller">I\'m your automatic feeder controller</string>
+    <string name="info_text">Please click on the bluetooth button. After button turn green, you can freely adjust the values of your feeder</string>
+    <string name="info_text2">Feed button immediately start feeding to your pet </string>
+    <string name="info_text3">Time values express the hours when feeding is taking place (Setting 0 disable the sequence) . The value of the quantity is tolerated by the feed in the dish</string>
+    <string name="info_text4">Returns the values to the factory settings</string>
+    <string name="feed">Feed</string>
+    <string name="time_1">TIME 1</string>
+    <string name="time_2">TIME 2</string>
+    <string name="time_3">TIME 3</string>
+    <string name="time_4">TIME 4</string>
+    <string name="time_5">TIME 5</string>
+    <string name="quantity">Quantity</string>
+    <string name="my_value">value</string>
+    <string name="set_settings">Set Settings</string>
+    <string name="my_default">Default</string>
+</resources>

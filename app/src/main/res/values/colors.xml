@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorBluetooth">#000000</color>
+
+    <color name="colorScrollDark">#292b31</color>
+    <color name="colorMainDark">#1c1d20</color>
+    <color name="colorNotBar">#17181b</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorMainBar">#1c1d20</color>
+    <color name="yellow">#dde951</color>
+    <color name="colorDirtyWhite">#e4e4e4</color>
+    <color name="colorBloody">#751816</color>
+    <color name="colorRed">#ac1111</color>
+    <color name="colorLightRed">#f64646</color>
+    <color name="colorGreen">#36b50c</color>
+</resources>
